@@ -1,5 +1,5 @@
 {
-  "name": "xml2js",
+  "name": "@geostyler/xml2js",
   "description": "Fork of xml2js lib with custom changes",
   "keywords": [
     "xml",
